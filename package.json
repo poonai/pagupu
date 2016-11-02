@@ -1,0 +1,30 @@
+{
+  "name": "pagupu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name":"schoolboy"
+  },
+  "keywords":[
+    "express",
+    "analytics",
+    "middleware"
+   ],
+   "readme":"simple analytics middleware for express",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "on-finished": "^2.3.0",
+    "request": "^2.76.0"
+  },
+  "devDependencies": {
+    "eslint": "^3.9.1",
+    "eslint-config-standard": "^6.2.1",
+    "eslint-plugin-promise": "^3.3.0",
+    "eslint-plugin-standard": "^2.0.1"
+  }
+}
