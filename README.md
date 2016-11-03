@@ -4,7 +4,7 @@ simple analytics middleware for express.Logs will be available at [pagupu websit
 I got 500$ aws credits I don't know how to spend so that I made small request statistic app
 # Enhancement
 If any enhancement needed please open issue
-#example
+# example
 ``` javascript
 const pagupu=require('pagupu')
 const express=require('express')
@@ -17,3 +17,5 @@ app.get('/', (req, res) => {
 })
 app.listen(2000)
 ```
+# Note
+It is is beta test..
