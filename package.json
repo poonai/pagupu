@@ -1,6 +1,6 @@
 {
   "name": "pagupu",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -20,6 +20,10 @@
     "express": "^4.14.0",
     "on-finished": "^2.3.0",
     "request": "^2.76.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sch00lb0y/pagupu"
   },
   "devDependencies": {
     "eslint": "^3.9.1",
