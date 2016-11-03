@@ -1,6 +1,6 @@
 {
   "name": "pagupu",
-  "version": "1.0.0",
+  "version": "1.0.5",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,6 @@
     "analytics",
     "middleware"
   ],
-  "readme": "simple analytics middleware for express",
   "license": "ISC",
   "dependencies": {
     "express": "^4.14.0",
